@@ -1,0 +1,27 @@
+{
+  "name": "fb-lann-nyoon",
+  "homepage": "https://github.com/khzaw/fb-lann-nyoon",
+  "authors": [
+    "Kaung Htet Zaw <emoosx@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "fb",
+    "myanmar",
+    "lann-nyoon",
+    "fb-lann-nyooon"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "schema-ui": "^2.0.1"
+  }
+}
